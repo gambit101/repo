@@ -1,0 +1,22 @@
+.container{
+    margin-top: 100px;
+}
+.container-img{
+    height: 350px;
+}
+.h1{
+    text-align: center;
+    margin-top: 100px;
+}
+.question-img{
+    width: 500px;
+    height: 300px;
+}
+.last-container{
+    width: 50%;
+}
+.footer{
+    height: 300px;
+    background-color: #0B0D17;
+    color: #D9DBE1;
+}
